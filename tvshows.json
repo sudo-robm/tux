@@ -7,7 +7,7 @@
                     "episode": 1, 
                     "season": 1, 
                     "stream": [
-                        "http://something.com"
+                        "https://www.youtube.com/watch?v=uPkYVqcE1h8"
                     ]
                 }, 
                 {
@@ -71,8 +71,8 @@
             "overview": "", 
             "poster": "", 
             "releasedate": "", 
-            "title": "Mandalorian ", 
-            "tmdbid": 82856
+            "title": "Still Game ", 
+            "tmdbid": 436
         }, 
         {
             "backdrop": "", 
